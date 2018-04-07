@@ -1,0 +1,68 @@
+body{
+  margin :0px;
+  color: #FFFFFF;
+}
+
+.businessCard{
+  margin: 0px;
+  background-color: rgb(30, 30, 30);
+  height: 55mm;
+  width: 91mm;
+}
+.header{
+  background-color: rgb(70, 70, 70);
+  font-size: 10px;
+  height: 5mm;
+  width: 91mm;
+}
+.left{
+  float: left;
+  height: 55mm;
+  width: 5mm;
+  background-color: rgb(70 , 70, 70)
+}
+.main{
+  position: relative;
+}
+.vscodeimg{
+  width:5mm;
+  position: absolute; left: 0mm; top: 0px
+}
+.function{
+  font-size: 8px;
+  color:rgb(86, 156, 179);
+}
+.name{
+  font-size:20px;
+  color:rgb(220, 220, 170);
+}
+.eightpx{
+  font-size: 8px;
+}
+.introduction{
+  font-size:10px;
+}
+.address{
+  font-size: 10px;
+}
+
+.colorLiteblue{
+  color: rgb(156, 220, 254);
+}
+.colorOrange{
+  color: rgb(206, 145, 120)
+}
+.colorYello{
+  color:yellow;
+}
+.link{
+  border-bottom: solid 1px;
+}
+.pastarea{
+  float: left;
+}
+.iconpic{
+  width: 20mm;
+  height: 20mm;
+  position: absolute; left: 60mm; top: 40px
+}
